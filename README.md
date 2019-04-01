@@ -10,7 +10,7 @@ See also [omra](https://github.com/notnullgames/omra) a quick 3D start at some o
 
 ## development
 
-You can edit the game in RPG Maker MV](http://www.rpgmakerweb.com/products/programs/rpg-maker-mv).
+You can edit the game in [RPG Maker MV](http://www.rpgmakerweb.com/products/programs/rpg-maker-mv).
 
 ```
 npm i            # install development tools
