@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"HeroPhysicalBattler","characterIndex":0,"characterName":"HeroPhysicalWalk","classId":1,"equips":[5,1,2,3,0],"faceIndex":0,"faceName":"HeroPhysical","traits":[{"code":51,"dataId":9,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Hero","nickname":"","note":"","profile":""}
+]

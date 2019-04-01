@@ -1,0 +1,21 @@
+{
+    "name": "@notnullgames/universe-wars",
+    "version": "0.0.0",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "window": {
+        "title": "Universe Wars",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    },
+    "devDependencies": {
+        "live-server": "^1.2.1",
+        "surge": "^0.20.3"
+    },
+    "scripts": {
+        "deploy": "surge src universwars.surge.sh",
+        "start": "live-server --open=src"
+    }
+}
