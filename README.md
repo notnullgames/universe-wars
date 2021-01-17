@@ -4,7 +4,7 @@
 
 You play the current version of it [here](https://universwars.surge.sh).
 
-Simon (9 year old) & I are making a game. We are currently using [RPG Maker MV](http://www.rpgmakerweb.com/products/programs/rpg-maker-mv) to edit the assets & logic, but eventtually I want to make a web-based asset-driven game-engine & editor with custom stuff.
+Simon (11 year old) & I are making a game. We are currently using [RPG Maker MV](http://www.rpgmakerweb.com/products/programs/rpg-maker-mv) to edit the assets & logic, but eventtually I want to make a web-based asset-driven game-engine & editor with custom stuff.
 
 There are a lot of unused assets from the the base-game & ideas we played with.
 
